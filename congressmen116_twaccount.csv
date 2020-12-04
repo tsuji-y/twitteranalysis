@@ -1,0 +1,537 @@
+﻿chamber,State ,Name ,Twitter Handle 
+Senate,AK ,Lisa Murkowski ,@lisamurkowski 
+Senate,AK ,Dan Sullivan ,@SenDanSullivan 
+Senate,AL ,Doug Jones ,@SenDougJones 
+Senate,AL ,Richard C. Shelby ,@SenShelby 
+Senate,AR ,John Boozman ,@JohnBoozman 
+Senate,AR ,Tom Cotton ,@SenTomCotton 
+Senate,AZ ,Martha McSally ,@SenMcSallyAZ 
+Senate,AZ ,Kyrsten Sinema ,@SenatorSinema 
+Senate,CA ,Dianne Feinstein ,@SenFeinstein 
+Senate,CA ,Kamala D. Harris ,@SenKamalaHarris 
+Senate,CO ,Michael F. Bennet ,@SenatorBennet 
+Senate,CO ,Cory Gardner ,@SenCoryGardner 
+Senate,CT ,Richard Blumenthal ,@SenBlumenthal 
+Senate,CT ,Christopher Murphy ,@SenMurphyOffice 
+Senate,DE ,  Thomas R. Carper           , @SenatorCarper 
+Senate,DE ,Christopher A. Coons ,@ChrisCoons 
+Senate,FL ,Marco Rubio ,@SenRubioPress 
+Senate,FL ,Rick Scott ,@SenRickScott 
+Senate,GA ,Johnny Isakson ,@SenatorIsakson 
+Senate,GA ,David Perdue ,@sendavidperdue 
+Senate,HI ,Mazie K. Hirono ,@maziehirono 
+Senate,HI ,Brian Schatz ,@SenBrianSchatz 
+Senate,IA ,Joni Ernst ,@SenJoniErnst 
+Senate,IA ,Chuck Grassley ,@ChuckGrassley 
+Senate,ID ,Mike Crapo ,@MikeCrapo 
+Senate,ID ,James E. Risch ,@SenatorRisch 
+Senate,IL ,Tammy Duckworth ,@SenDuckworth 
+Senate,IL ,Richard J. Durbin ,@SenatorDurbin 
+Senate,IN ,Mike Braun ,@SenatorBraun 
+Senate,IN ,Todd Young ,@SenToddYoung 
+Senate,KS ,Jerry Moran ,@JerryMoran 
+Senate,KS ,Pat Roberts ,@SenPatRoberts 
+Senate,KY ,Mitch McConnell ,@SenateMajLdr 
+Senate,KY ,Rand Paul ,@RandPaul 
+Senate,LA ,Bill Cassidy ,@SenBillCassidy 
+Senate,LA ,John Kennedy ,@SenJohnKennedy 
+Senate,MA ,Edward J. Markey ,@SenMarkey 
+Senate,MA ,Elizabeth Warren ,@SenWarren 
+Senate,MD ,Benjamin L. Cardin ,@SenatorCardin 
+Senate,MD ,Chris Van Hollen ,@ChrisVanHollen 
+Senate,ME ,Susan M. Collins ,@SenatorCollins 
+Senate,ME ,"Angus S. King, Jr. ",@SenAngusKing 
+Senate,MI ,Gary C. Peters ,@SenGaryPeters 
+Senate,MI ,Debbie Stabenow ,@SenStabenow 
+Senate,MN ,Amy Klobuchar ,@SenAmyKlobuchar 
+Senate,MN ,Tina Smith ,@SenTinaSmith 
+Senate,MO ,Roy Blunt ,@RoyBlunt 
+Senate,MO ,Josh Hawley ,@SenHawleyPress 
+Senate,MS ,Cindy Hyde-Smith ,@SenHydeSmith 
+Senate,MS ,Roger F. Wicker ,@SenatorWicker 
+Senate,MT ,Steve Daines ,@SteveDaines 
+Senate,MT ,Jon Tester ,@SenatorTester 
+Senate,NC ,Richard Burr ,@SenatorBurr 
+Senate,NC ,Thom Tillis ,@SenThomTillis 
+Senate,ND ,Kevin Cramer ,@SenKevinCramer 
+Senate,ND ,John Hoeven ,@SenJohnHoeven 
+Senate,NE ,Deb Fischer ,@SenatorFischer 
+Senate,NE ,Ben Sasse ,@SenSasse 
+Senate,NH ,Margaret Wood Hassan ,@SenatorHassan 
+Senate,NH ,Jeanne Shaheen ,@SenatorShaheen 
+Senate,NJ ,Cory A. Booker ,@SenBooker 
+Senate,NJ ,Robert Menendez ,@SenatorMenendez 
+Senate,NM ,Martin Heinrich ,@MartinHeinrich 
+Senate,NM ,Tom Udall ,@SenatorTomUdall 
+Senate,NV ,Catherine Cortez Masto ,@SenCortezMasto 
+Senate,NV ,Jacky Rosen ,@SenJackyRosen 
+Senate,NY ,Kirsten E. Gillibrand ,@gillibrandny 
+Senate,NY ,Charles E. Schumer ,@SenSchumer 
+Senate,OH ,Sherrod Brown ,@SenSherrodBrown 
+Senate,OH ,Rob Portman ,@senrobportman 
+Senate,OK ,James M. Inhofe ,@JimInhofe 
+Senate,OK ,James Lankford ,@SenatorLankford 
+Senate,OR ,Jeff Merkley ,@SenJeffMerkley 
+Senate,OR ,Ron Wyden ,@RonWyden 
+Senate,PA ,"Robert P. Casey, Jr. ",@SenBobCasey 
+Senate,PA ,Patrick J. Toomey ,@SenToomey 
+Senate,RI ,Jack Reed ,@SenJackReed 
+Senate,RI ,Sheldon Whitehouse ,@SenWhitehouse 
+Senate,SC ,Lindsey Graham ,@LindseyGrahamSC 
+Senate,SC ,Tim Scott ,@SenatorTimScott 
+Senate,SD ,Mike Rounds ,@SenatorRounds 
+Senate,SD ,John Thune ,@SenJohnThune 
+Senate,TN ,Lamar Alexander ,@SenAlexander 
+Senate,TN ,Marsha Blackburn ,@MarshaBlackburn 
+Senate,TX ,John Cornyn ,@JohnCornyn 
+Senate,TX ,Ted Cruz ,@SenTedCruz 
+Senate,UT ,Mike Lee ,@SenMikeLee 
+Senate,UT ,Mitt Romney ,@SenatorRomney 
+Senate,VA ,Time Kaine ,N/A 
+Senate,VA ,Mark R. Warner ,@MarkWarner 
+Senate,VT ,Patrick J. Leahy ,@SenatorLeahy 
+Senate,VT ,Bernard Sanders ,@SenSanders 
+Senate,WA ,Maria Cantwell ,@SenatorCantwell 
+Senate,WA ,Patty Murray ,@PattyMurray 
+Senate,WI ,Tammy Baldwin ,@SenatorBaldwin 
+Senate,WI ,Ron Johnson ,@SenRonJohnson 
+Senate,WV ,Shelley Moore Capito ,@SenCapito 
+Senate,WV ,"Joe Manchin, III ",@Sen_JoeManchin 
+Senate,WY ,John Barrasso ,@SenJohnBarrasso 
+Senate,WY ,Michael B. Enzi ,@SenatorEnzi 
+House,AK - At Large ,Don Young ,@repdonyoung 
+House,AL-01 ,Bradley Byrne ,@RepByrne 
+House,AL-02 ,Martha Roby ,@RepMarthaRoby 
+House,AL-03 ,Mike Rogers ,@RepMikeRogersAL 
+House,AL-04 ,Robert B. Aderholt ,@Robert_Aderholt 
+House,AL-05 ,Mo Brooks ,@RepMoBrooks 
+House,AL-06 ,Gary J. Palmer ,@USRepGaryPalmer 
+House,AL-07 ,Terri A. Sewell ,@RepTerriSewell 
+House,AR-01 ,"Eric A. ""Rick"" Crawford ",@RepRickCrawford 
+House,AR-02 ,J. French Hill ,@RepFrenchHill 
+House,AR-03 ,Steve Womack ,@rep_stevewomack 
+House,AR-04 ,Bruce Westerman ,@RepWesterman 
+House,AZ-01 ,Tom O'Halleran ,@RepOHalleran 
+House,AZ-02 ,Ann Kirkpatrick ,@RepKirkpatrick 
+House,AZ-03 ,Raúl M. Grijalva ,@RepRaulGrijalva 
+House,AZ-04 ,Paul A. Gosar ,@RepGosar 
+House,AZ-05 ,Andy Biggs ,@RepAndyBiggsAZ 
+House,AZ-06 ,David Schweikert ,@RepDavid 
+House,AZ-07 ,Ruben Gallego ,@RepRubenGallego 
+House,AZ-08 ,Debbie Lesko ,@RepDLesko 
+House,AZ-09 ,Greg Stanton ,@RepGregStanton 
+House,CA-01 ,Doug LaMalfa ,@RepLaMalfa 
+House,CA-02 ,Jared Huffman ,@RepHuffman 
+House,CA-03 ,John Garamendi ,@RepGaramendi 
+House,CA-04 ,Tom McClintock ,@RepMcClintock 
+House,CA-05 ,Mike Thompson ,@RepThompson 
+House,CA-06 ,Doris O. Matsui ,@DorisMatsui 
+House,CA-07 ,Ami Bera ,@RepBera 
+House,CA-08 ,Paul Cook ,@RepPaulCook 
+House,CA-09 ,Jerry McNerney ,@RepMcNerney 
+House,CA-10 ,Josh Harder ,@RepJoshHarder 
+House,CA-11 ,Mark DeSaulnier ,@RepDeSaulnier 
+House,CA-12 ,Nancy Pelosi ,@SpeakerPelosi 
+House,CA-13 ,Barbara Lee ,@RepBarbaraLee 
+House,CA-14 ,Jackie Speier ,@RepSpeier 
+House,CA-15 ,Eric Swalwell ,@RepSwalwell 
+House,CA-16 ,Jim Costa ,@RepJimCosta 
+House,CA-17 ,Ro Khanna ,@RepRoKhanna 
+House,CA-18 ,Anna G. Eshoo ,@RepAnnaEshoo 
+House,CA-19 ,Zoe Lofgren ,@RepZoeLofgren 
+House,CA-20 ,Jimmy Panetta ,@RepJimmyPanetta 
+House,CA-21 ,TJ Cox ,@RepTjCox 
+House,CA-22 ,Devin Nunes ,@RepDevinNunes 
+House,CA-23 ,Kevin McCarthy ,@GOPLeader 
+House,CA-24 ,Salud O. Carbajal ,@RepCarbajal 
+House,CA-25 ,Katie Hill ,@RepKatieHill 
+House,CA-26 ,Julia Brownley ,@RepBrownley 
+House,CA-27 ,Judy Chu ,@RepJudyChu 
+House,CA-28 ,Adam B. Schiff ,@RepAdamSchiff 
+House,CA-29 ,Tony Cárdenas ,@RepCardenas 
+House,CA-30 ,Brad Sherman ,@BradSherman 
+House,CA-31 ,Pete Aguilar ,@RepPeteAguilar 
+House,CA-32 ,Grace F. Napolitano ,@gracenapolitano 
+House,CA-33 ,Ted Lieu ,@RepTedLieu 
+House,CA-34 ,Jimmy Gomez ,@RepJimmyGomez 
+House,CA-35 ,Norma J. Torres ,@NormaJTorres 
+House,CA-36 ,Raul Ruiz ,@CongressmanRuiz 
+House,CA-37 ,Karen Bass ,@RepKarenBass 
+House,CA-38 ,Linda T. Sánchez ,@RepLindaSanchez 
+House,CA-39 ,Gilbert Ray Jr. Cisneros ,@RepGilCisneros 
+House,CA-40 ,Lucille Roybal-Allard ,@RepRoybalAllard 
+House,CA-41 ,Mark Takano ,@RepMarkTakano 
+House,CA-42 ,Ken Calvert ,@KenCalvert 
+House,CA-43 ,Maxine Waters ,@RepMaxineWaters 
+House,CA-44 ,Nanette Diaz Barragán   ,@RepBarragan 
+House,CA-45 ,Katie Porter ,@RepKatiePorter 
+House,CA-46 ,J. Luis Correa ,@RepLouCorrea 
+House,CA-47 ,Alan S. Lowenthal ,@RepLowenthal 
+House,CA-48 ,Harley Rouda ,@RepHarley 
+House,CA-49 ,Mike Levin ,@RepMikeLevin 
+House,CA-50 ,Duncan Hunter ,@Rep_Hunter 
+House,CA-51 ,Juan Vargas ,@RepJuanVargas 
+House,CA-52 ,Scott H. Peters ,@RepScottPeters 
+House,CA-53 ,Susan A. Davis ,@RepSusanDavis 
+House,CO-01 ,Diana DeGette ,@RepDianaDeGette 
+House,CO-02 ,Joe Neguse ,@RepJoeNeguse 
+House,CO-03 ,Scott R. Tipton ,@RepTipton 
+House,CO-04 ,Ken Buck ,@RepKenBuck 
+House,CO-05 ,Doug Lamborn ,@RepDLamborn 
+House,CO-06 ,Jason Crow ,@RepJasonCrow 
+House,CO-07 ,Ed Perlmutter ,@RepPerlmutter 
+House,CT-01 ,John B. Larson ,@RepJohnLarson 
+House,CT-02 ,Joe Courtney ,@RepJoeCourtney 
+House,CT-03 ,Rosa L. DeLauro ,@rosadelauro 
+House,CT-04 ,James A. Himes ,@jahimes 
+House,CT-05 ,Jahana Hayes ,@RepJahanaHayes 
+House,DE - At Large ,Lisa Blunt Rochester ,@RepLBR 
+House,DC Delegate ,Eleanor Holmes Norton ,@EleanorNorton 
+House,FL-01 ,Matt Gaetz ,@RepMattGaetz 
+House,FL-02 ,Neal P. Dunn ,@DrNealDunnFL2 
+House,FL-03 ,Ted S. Yoho ,@RepTedYoho 
+House,FL-04 ,John H. Rutherford ,@RepRutherfordFL 
+House,FL-05 ,"Al Lawson, Jr. ",@RepAlLawsonJr 
+House,FL-06 ,Michael Waltz ,@RepMichaelWaltz 
+House,FL-07 ,Stephanie N. Murphy ,@RepStephMurphy 
+House,FL-08 ,Bill Posey ,@congbillposey 
+House,FL-09 ,Darren Soto ,@RepDarrenSoto 
+House,FL-10 ,Val Butler Demings ,@RepValDemings 
+House,FL-11 ,Daniel Webster ,@RepWebster 
+House,FL-12 ,Gus M. Bilirakis ,@RepGusBilirakis 
+House,FL-13 ,Charlie Crist ,@RepCharlieCrist 
+House,FL-14 ,Kathy Castor ,@USRepKCastor 
+House,FL-15 ,Dennis A. Ross , N/A 
+House,FL-16 ,Vern Buchanan ,@VernBuchanan 
+House,FL-17 ,W. Gregory Steube ,@RepGregSteube 
+House,FL-18 ,Brian J. Mast ,@RepBrianMast 
+House,FL-19 ,Francis Rooney ,@RepRooney 
+House,FL-20 ,Alcee L. Hastings ,@RepHastingsFL 
+House,FL-21 ,Lois Frankel ,@RepLoisFrankel 
+House,FL-22 ,Theodore E. Deutch ,@RepTedDeutch 
+House,FL-23 ,Debbie Wasserman Schultz ,@RepDWStweets 
+House,FL-24 ,Frederica S. Wilson ,@RepWilson 
+House,FL-25 ,Mario Diaz-Balart ,@MarioDB 
+House,FL-26 ,Debbie Mucarsel-Powell ,@RepDMP 
+House,FL-27 ,Donna E. Shalala ,@RepShalala 
+House,GA-01 ,"Earl L. ""Buddy"" Carter ",@RepBuddyCarter 
+House,GA-02 ,Sanford D. Bishop ,@SanfordBishop 
+House,GA-03 ,A. Drew Ferguson ,@RepDrewFerguson 
+House,GA-04 ,"Henry C. ""Hank"" Johnson Jr. ",@RepHankJohnson 
+House,GA-05 ,John Lewis ,@repjohnlewis 
+House,GA-06 ,Lucy McBath ,@RepLucyMcBath 
+House,GA-07 ,Rob Woodall ,@RepRobWoodall 
+House,GA-08 ,Austin Scott ,@AustinScottGA08 
+House,GA-09 ,Doug Collins ,@RepDougCollins 
+House,GA-10 ,Jody B. Hice ,@CongressmanHice 
+House,GA-11 ,Barry Loudermilk ,@RepLoudermilk 
+House,GA-12 ,Rick W. Allen ,@RepRickAllen 
+House,GA-13 ,David Scott ,@repdavidscott 
+House,GA-14 ,Tom Graves ,@RepTomGraves 
+House,HI-01 ,Ed Case ,@RepEdCase 
+House,HI-02 ,Tulsi Gabbard ,@TulsiPress 
+House,IA-01 ,Abby Finkenauer ,@RepFinkenauer 
+House,IA-02 ,David Loebsack ,@daveloebsack 
+House,IA-03 ,Cynthia Axne ,@RepCindyAxne 
+House,IA-04 ,Steve King , N/A 
+House,ID-01 ,Russ Fulcher ,@RepRussFulcher 
+House,ID-02 ,Michael K. Simpson ,@CongMikeSimpson 
+House,IL-01 ,Bobby L. Rush ,@RepBobbyRush 
+House,IL-02 ,Robin L. Kelly ,@RepRobinKelly 
+House,IL-03 ,Daniel Lipinski ,@RepLipinski 
+House,IL-04 ,"Jesús ""Chuy"" García ",@RepChuyGarcia 
+House,IL-05 ,Mike Quigley ,@RepMikeQuigley 
+House,IL-06 ,Sean Casten ,@RepCasten 
+House,IL-07 ,Danny K. Davis ,@RepDannyDavis 
+House,IL-08 ,Raja Krishnamoorthi ,@CongressmanRaja 
+House,IL-09 ,"Janice ""Jan"" D. Schakowsky ",@janschakowsky 
+House,IL-10 ,Bradley Scott Schneider ,@RepSchneider 
+House,IL-11 ,Bill Foster ,@RepBillFoster 
+House,IL-12 ,Mike Bost ,@RepBost 
+House,IL-13 ,Rodney Davis ,@RodneyDavis 
+House,IL-14 ,Lauren Underwood ,@RepUnderwood 
+House,IL-15 ,John Shimkus ,@RepShimkus 
+House,IL-16 ,Adam Kinzinger ,@RepKinzinger 
+House,IL-17 ,Cheri Bustos ,@RepCheri 
+House,IL-18 ,Darin LaHood ,@RepLaHood 
+House,IN-01 ,Peter J. Visclosky ,@RepVisclosky 
+House,IN-02 ,Jackie Walorski ,@RepWalorski 
+House,IN-03 ,Jim Banks ,@RepJimBanks 
+House,IN-04 ,James Baird ,@RepJimBaird 
+House,IN-05 ,Susan W. Brooks ,@SusanWBrooks 
+House,IN-06 ,Greg Pence ,@RepGregPence 
+House,IN-07 ,André Carson ,@RepAndreCarson 
+House,IN-08 ,Larry Bucshon ,@RepLarryBucshon 
+House,IN-09 ,Trey Hollingsworth ,@RepTrey 
+House,KS-01 ,Roger W. Marshall , N/A 
+House,KS-02 ,Steven Watkins , N/A 
+House,KS-03 ,Sharice Davids ,@RepDavids 
+House,KS-04 ,Ron Estes ,@RepRonEstes 
+House,KY-01 ,James Comer ,N/A 
+House,KY-02 ,Brett Guthrie ,@RepGuthrie 
+House,KY-03 ,John A. Yarmuth ,@RepJohnYarmuth 
+House,KY-04 ,Thomas Massie ,@RepThomasMassie 
+House,KY-05 ,Harold Rogers ,@RepHalRogers 
+House,KY-06 ,Andy Barr ,@RepAndyBarr 
+House,LA-01 ,Steve Scalise ,@SteveScalise 
+House,LA-02 ,Cedric L. Richmond ,@RepRichmond 
+House,LA-03 ,Clay Higgins ,@RepClayHiggins 
+House,LA-04 ,Mike Johnson ,@RepMikeJohnson 
+House,LA-05 ,Ralph Lee Abraham ,@RepAbraham 
+House,LA-06 ,Garret Graves ,@RepGarretGraves 
+House,ME-01 ,Chellie Pingree ,@chelliepingree 
+House,ME-02 ,Jared Golden ,@RepGolden 
+House,MD-01 ,Andy Harris ,@RepAndyHarrisMD 
+House,MD-02 ,C. A. Dutch Ruppersberger ,@Call_Me_Dutch 
+House,MD-03 ,John P. Sarbanes ,@RepSarbanes 
+House,MD-04 ,Anthony G. Brown ,@RepAnthonyBrown 
+House,MD-05 ,Steny H. Hoyer ,@LeaderHoyer 
+House,MD-06 ,David Trone ,@RepDavidTrone 
+House,MD-07 ,Elijah Cummings ,@RepCummings 
+House,MD-08 ,Jamie Raskin ,@RepRaskin 
+House,MA-01 ,Richard E. Neal ,@RepRichardNeal 
+House,MA-02 ,James P. McGovern ,@RepMcGovern 
+House,MA-03 ,Lori Trahan ,@RepLoriTrahan 
+House,MA-04 ,Joseph P. Kennedy ,@RepJoeKennedy 
+House,MA-05 ,Katherine M. Clark ,@RepKClark 
+House,MA-06 ,Seth Moulton ,@teammoulton 
+House,MA-07 ,Ayanna Pressley ,@RepPressley 
+House,MA-08 ,Stephen F. Lynch ,@RepStephenLynch 
+House,MA-09 ,William R. Keating ,@USRepKeating 
+House,MI-01 ,Jack Bergman ,@RepJackBergman 
+House,MI-02 ,Bill Huizenga ,@RepHuizenga 
+House,MI-03 ,Justin Amash ,@justinamash 
+House,MI-04 ,John R. Moolenaar ,@RepMoolenaar 
+House,MI-05 ,Daniel T. Kildee ,@RepDanKildee 
+House,MI-06 ,Fred Upton ,@RepFredUpton 
+House,MI-07 ,Tim Walberg ,@RepWalberg 
+House,MI-08 ,Elissa Slotkin ,@RepSlotkin 
+House,MI-09 ,Sander M. Levin ,@RepAndyLevin 
+House,MI-10 ,Paul Mitchell ,@RepPaulMitchell 
+House,MI-11 ,Haley Stevens ,@RepHaleyStevens 
+House,MI-12 ,Debbie Dingell ,@RepDebDingell 
+House,MI-13 ,Rashida Tlaib ,@RepRashida 
+House,MI-14 ,Brenda L. Lawrence ,@RepLawrence 
+House,MN-01 ,Jim Hagedorn ,@RepHagedorn 
+House,MN-02 ,Angie Craig ,@RepAngieCraig 
+House,MN-03 ,Dean Phillips ,@RepDeanPhillips 
+House,MN-04 ,Betty McCollum ,@BettyMcCollum04 
+House,MN-05 ,Ilhan Omar ,@Ilhan 
+House,MN-06 ,Tom Emmer ,@RepTomEmmer 
+House,MN-07 ,Collin C. Peterson ,N/A 
+House,MN-8 ,Pete Stauber ,@RepPeteStauber 
+House,MO-01 ,Wm. Lacy Clay Jr ,@LacyClayMO1 
+House,MO-2 ,Ann Wagner ,@RepAnnWagner 
+House,MO-03 ,Blaine Luetkemeyer ,@RepBlaine 
+House,MO-04 ,Vicky Hartzler ,@RepHartzler 
+House,MO-05 ,Emanuel Cleaver ,@repcleaver 
+House,MO-06 ,Sam Graves ,@RepSamGraves 
+House,MO-07 ,Billy Long ,@USRepLong 
+House,MO-08 ,Jason Smith ,@RepJasonSmith 
+House,MS-01 ,Trent Kelly ,@RepTrentKelly 
+House,MS-02 ,Bennie G. Thompson ,@BennieGThompson 
+House,MS-03 ,Michael Guest ,@RepMichaelGuest 
+House,MS-04 ,Steven M. Palazzo ,@CongPalazzo 
+House,MT - At Large ,Greg Gianforte ,N/A 
+House,NC-01 ,G. K. Butterfield ,@GKButterfield 
+House,NC-02 ,George Holding ,@RepHolding 
+House,NC-03 ,Walter B. Jones ,@RepWalterJones 
+House,NC-04 ,David E. Price ,@RepDavidEPrice 
+House,NC-05 ,Virginia Foxx ,@virginiafoxx 
+House,NC-06 ,Mark Walker ,@RepMarkWalker 
+House,NC-07 ,David Rouzer ,@RepDavidRouzer 
+House,NC-08 ,Richard Hudson ,@RepRichHudson 
+House,NC-09 ,Vacant , 
+House,NC-10 ,Patrick T. McHenry ,@PatrickMcHenry 
+House,NC-11 ,Mark Meadows ,@RepMarkMeadows 
+House,NC-12 ,Alma S. Adams ,@RepAdams 
+House,NC-13 ,Ted Budd ,@RepTedBudd 
+House,ND - At Large ,Kelly Armstrong ,@RepArmstrongND 
+House,NE-01 ,Jeff Fortenberry ,@JeffFortenberry 
+House,NE-02 ,Don Bacon ,@RepDonBacon 
+House,NE-03 ,Adrian Smith ,@RepAdrianSmith 
+House,NH-01 ,Chris Pappas ,@RepChrisPappas 
+House,NH-02 ,Ann M. Kuster ,@RepAnnieKuster 
+House,NJ-01 ,Donald Norcross ,@DonaldNorcross 
+House,NJ-02 ,Jefferson Van Dress ,@CongressmanJVD 
+House,NJ-03 ,Andy Kim ,@RepAndyKimNJ 
+House,NJ-04 ,Christopher H. Smith ,@RepChrisSmith 
+House,NJ-05 ,Josh Gottheimer ,@RepJoshG 
+House,NJ-06 ,"Frank Pallone, Jr. ",@FrankPallone 
+House,NJ-07 ,Tom Malinowski ,@RepMalinowski 
+House,NJ-08 ,Albio Sires ,@RepSires 
+House,NJ-09 ,"Bill Pascrell, Jr.  ",@BillPascrell 
+House,NJ-10 ,"Donald M. Payne, Jr.  ",@RepDonaldPayne 
+House,NJ-11 ,Mikie Sherrill ,@RepSherrill 
+House,NJ-12 ,Bonnie Watson Coleman ,@RepBonnie 
+House,NM-01 ,Debra Haaland ,@RepDebHaaland 
+House,NM-02 ,Xochitl Torres Small ,@RepTorresSmall 
+House,NM-03 ,Ben Ray Luján ,@repbenraylujan 
+House,NV-01 ,Dina Titus ,@repdinatitus 
+House,NV-02 ,Mark E. Amodei ,@MarkAmodeiNV2 
+House,NV-03 ,Susie Lee ,@RepSusieLee 
+House,NV-04 ,Steven Horsford ,@RepHorsford 
+House,NY-01 ,Lee M. Zeldin ,@RepLeeZeldin 
+House,NY-02 ,Peter T. King ,@RepPeteKing 
+House,NY-03 ,Thomas R.. Suozzi ,@RepTomSuozzi 
+House,NY-04 ,Kathleen M. Rice ,@RepKathleenRice 
+House,NY-05 ,Gregory W. Meeks ,@RepGregoryMeeks 
+House,NY-06 ,Grace Meng ,@RepGraceMeng 
+House,NY-07 ,Nydia M. Velázquez ,@NydiaVelazquez 
+House,NY-08 ,Hakeem S. Jeffries ,@RepJeffries 
+House,NY-09 ,Yvette D. Clarke ,@RepYvetteClarke 
+House,NY-10 ,Jerrold Nadler ,@RepJerryNadler 
+House,NY-11 ,Max Rose ,@RepMaxRose 
+House,NY-12 ,Carolyn B. Maloney ,@RepMaloney 
+House,NY-13 ,Adriano Espaillat ,@RepEspaillat 
+House,NY-14 ,Alexandria Ocasio-Cortez ,@RepAOC 
+House,NY-15 ,José E. Serrano ,@RepJoseSerrano 
+House,NY-16 ,Eliot L. Engel ,@RepEliotEngel 
+House,NY-17 ,Nita M. Lowey ,@NitaLowey 
+House,NY-18 ,Sean Patrick Maloney ,@RepSeanMaloney 
+House,NY-19 ,Antonio Delagado ,@repdelgado 
+House,NY-20 ,Paul Tonko ,@RepPaulTonko 
+House,NY-21 ,Elise M. Stefanik ,@RepStefanik 
+House,NY-22 ,Anthony Brindisi ,@RepBrindisi 
+House,NY-23 ,Tom Reed ,@RepTomReed 
+House,NY-24 ,John Katko ,@RepJohnKatko 
+House,NY-25 ,Joseph Morelle ,@RepJoeMorelle 
+House,NY-26 ,Brian Higgins ,@RepBrianHiggins 
+House,NY-27 ,Chris Collins ,@RepChrisCollins 
+House,OH-01 ,Steve Chabot ,@RepSteveChabot 
+House,OH-02 ,Brad R. Wenstrup ,@RepBradWenstrup 
+House,OH-03 ,Joyce Beatty ,@RepBeatty 
+House,OH-04 ,Jim Jordan ,@Jim_Jordan 
+House,OH-05 ,Robert E. Latta ,@boblatta 
+House,OH-06 ,Bill Johnson ,@RepBillJohnson 
+House,OH-07 ,Bob Gibbs ,@RepBobGibbs 
+House,OH-08 ,Warren Davidson ,@WarrenDavidson 
+House,OH-09 ,Marcy Kaptur ,@RepMarcyKaptur 
+House,OH-10 ,Michael R. Turner ,@RepMikeTurner 
+House,OH-11 ,Marcia L. Fudge ,@RepMarciaFudge 
+House,OH-12 ,Troy Balderson ,@RepBalderson 
+House,OH-13 ,Tim Ryan ,@RepTimRyan 
+House,OH-14 ,David P. Joyce ,@RepDaveJoyce 
+House,OH-15 ,Steve Stivers ,@RepSteveStivers 
+House,OH-16 ,Anthony Gonzalez ,@RepAGonzalez 
+House,OK-01 ,Kevin Hern ,@repkevinhern 
+House,OK-02 ,Markwayne Mullin ,@RepMullin 
+House,OK-03 ,Frank D. Lucas ,@RepFrankLucas 
+House,OK-04 ,Tom Cole ,@TomColeOK04 
+House,OK-05 ,Kendra Horn ,@RepKendraHorn 
+House,OR-01 ,Suzanne Bonamici ,@RepBonamici 
+House,OR-02 ,Greg Walden ,@repgregwalden 
+House,OR-03 ,Earl Blumenauer ,@repblumenauer 
+House,OR-04 ,Peter A. DeFazio ,@RepPeterDeFazio 
+House,OR-05 ,Kurt Schrader ,@RepSchrader 
+House,PA-01 ,Brian Fitzpatrick ,@RepBrianFitz 
+House,PA-02 ,Brendan Boyle ,@CongBoyle 
+House,PA-03 ,Dwight Evans ,@RepDwightEvans 
+House,PA-04 ,Madeleine Dean ,@RepDean 
+House,PA-05 ,Mary Gay Scanlon ,@RepMGS 
+House,PA-06 ,Chrissy Houlahan ,@RepHoulahan 
+House,PA-07 ,Susan Wilk ,@RepSusanWild 
+House,PA-08 ,Matt Cartwright ,@RepCartwright 
+House,PA-09 ,Daniel Meuser ,@RepMeuser 
+House,PA-10 ,Scott Perry ,@RepScottPerry 
+House,PA-11 ,Lloyd Smucker ,@RepSmucker 
+House,PA-12 ,Vacant , 
+House,PA-13 ,John Joyce ,@RepJohnJoyce 
+House,PA-14 ,Guy Reschenthaler ,@GReschenthaler 
+House,PA-15 ,Glenn Thompson ,@CongressmanGT 
+House,PA-16 ,Mike Kelly ,@MikeKellyPA 
+House,PA-17 ,Conor Lamb ,@RepConorLamb 
+House,PA-18 ,Michael Doyle ,@USRepMikeDoyle 
+House,RI-01 ,David N. Cicilline ,@davidcicilline 
+House,RI-02 ,James R. Langevin ,@JimLangevin 
+House,SC-01 ,Joe Cunningham ,@RepCunningham 
+House,SC-02 ,Joe Wilson ,@RepJoeWilson 
+House,SC-03 ,Jeff Duncan ,@RepJeffDuncan 
+House,SC-04 ,William Timmons ,@reptimmons 
+House,SC-05 ,Ralph Norman ,@RepRalphNorman 
+House,SC-06 ,James E. Clyburn ,@WhipClyburn 
+House,SC-07 ,Tom Rice ,@RepTomRice 
+House,SD - At Large ,Dusty Johnson ,@RepDustyJohnson 
+House,TN-01 ,David P. Roe ,@DrPhilRoe 
+House,TN-02 ,Tim Burchett ,@RepTimBurchett 
+House,TN-03 ,"Charles J. ""Chuck"" Fleischmann ",@RepChuck 
+House,TN-04 ,Scott DesJarlais ,@DesJarlaisTN04 
+House,TN-05 ,Jim Cooper ,@repjimcooper 
+House,TN-06 ,John Rose ,@RepJohnRose 
+House,TN-07 ,Mark Green ,@RepMarkGreen 
+House,TN-08 ,David Kustoff ,@RepDavidKustoff 
+House,TN-09 ,Steve Cohen ,@RepCohen 
+House,TX-01 ,Louie Gohmert ,@replouiegohmert 
+House,TX-02 ,Dan Crenshaw ,@RepDanCrenshaw 
+House,TX-03 ,Van Taylor ,@RepVanTaylor 
+House,TX-04 ,John Ratcliffe ,@RepRatcliffe 
+House,TX-05 ,Lance Gooden ,@RepLanceGooden 
+House,TX-06 ,Ron Wright ,@RepRonWright 
+House,TX-07 ,Lizzie Fletcher ,@RepFletcher 
+House,TX-08 ,Kevin Brady ,@RepKevinBrady 
+House,TX-09 ,Al Green ,@RepAlGreen 
+House,TX-10 ,Michael T. McCaul ,@RepMcCaul 
+House,TX-11 ,K. Michael Conaway ,@ConawayTX11 
+House,TX-12 ,Kay Granger ,@RepKayGranger 
+House,TX-13 ,Mac Thornberry ,@MacTXPress 
+House,TX-14 ,"Randy K. Weber, Sr. ",@TXRandy14 
+House,TX-15 ,Vicente Gonzalez ,@RepGonzalez 
+House,TX-16 ,Veronica Escobar ,@RepEscobar 
+House,TX-17 ,Bill Flores ,@RepBillFlores 
+House,TX-18 ,Sheila Jackson Lee ,@JacksonLeeTX18 
+House,TX-19 ,Jodey C. Arrington ,@RepArrington 
+House,TX-20 ,Joaquin Castro ,@JoaquinCastrotx 
+House,TX-21 ,Chip Roy ,@RepChipRoy 
+House,TX-22 ,Pete Olson ,@RepPeteOlson 
+House,TX-23 ,Will Hurd ,@HurdOnTheHill 
+House,TX-24 ,Kenny Marchant ,@RepKenMarchant 
+House,TX-25 ,Roger Williams ,@RepRWilliams 
+House,TX-26 ,Michael C. Burgess ,@michaelcburgess 
+House,TX-27 ,Michael Cloud ,@RepCloudTX 
+House,TX-28 ,Henry Cuellar ,@RepCuellar 
+House,TX-29 ,Sylvia Garcia ,@RepSylviaGarcia 
+House,TX-30 ,Eddie Bernice Johnson ,@RepEBJ 
+House,TX-31 ,John R. Carter ,@JudgeCarter 
+House,TX-32 ,Colin Allred ,@RepColinAllred 
+House,TX-33 ,Marc A. Veasey ,@RepVeasey 
+House,TX-34 ,Filemon Vela ,@RepFilemonVela 
+House,TX-35 ,Lloyd Doggett ,@RepLloydDoggett 
+House,TX-36 ,Brian Babin ,@RepBrianBabin 
+House,UT-01 ,Rob Bishop ,@RepRobBishop 
+House,UT-02 ,Chris Stewart ,@RepChrisStewart 
+House,UT-03 ,John R. Curtis ,@RepJohnCurtis 
+House,UT-04 ,Ben McAdams ,@RepBenMcAdams 
+House,VA-01 ,Robert J. Wittman ,@RobWittman 
+House,VA-02 ,Elaine Luria ,@RepElaineLuria 
+House,VA-03 ,"Robert C. ""Bobby"" Scott ",@BobbyScott 
+House,VA-04 ,A. Donald McEachin ,@RepMcEachin 
+House,VA-05 ,Denver Riggleman ,@RepRiggleman 
+House,VA-06 ,Ben Cline ,@RepBenCline 
+House,VA-07 ,Abigail Spanberger ,@RepSpanberger 
+House,VA-08 ,"Donald S. Beyer, Jr. ",@RepDonBeyer 
+House,VA-09 ,H. Morgan Griffith ,@RepMGriffith 
+House,VA-10 ,Jennifer Wexton ,@RepWexton 
+House,VA-11 ,Gerald E. Connolly ,@GerryConnolly 
+House,VT - At Large ,Peter Welch ,@PeterWelch 
+House,WA-01 ,Suzan K. DelBene ,@RepDelBene 
+House,WA-02 ,Rick Larsen ,@RepRickLarsen 
+House,WA-03 ,Jaime Herrera Beutler ,@HerreraBeutler 
+House,WA-04 ,Dan Newhouse ,@RepNewhouse 
+House,WA-05 ,Cathy McMorris Rodgers ,@cathymcmorris 
+House,WA-06 ,Derek Kilmer ,@RepDerekKilmer 
+House,WA-07 ,Pramila Jayapal ,@RepJayapal 
+House,WA-08 ,Kim Schrier ,@RepKimSchrier 
+House,WA-09 ,Adam Smith ,@RepAdamSmith 
+House,WA-10 ,Denny Heck ,@RepDennyHeck 
+House,WI-01 ,Bryan Steil ,@RepBryanSteil 
+House,WI-02 ,Mark Pocan ,@repmarkpocan 
+House,WI-03 ,Ron Kind ,@RepRonKind 
+House,WI-04 ,Gwen Moore ,@RepGwenMoore 
+House,WI-05 ,"F. James Sensenbrenner, Jr. ",@JimPressOffice 
+House,WI-06 ,Glenn Grothman ,@RepGrothman 
+House,WI-07 ,Sean P. Duffy ,@RepSeanDuffy 
+House,WI-08 ,Mike Gallagher ,@RepGallagher 
+House,WV-01 ,David B. McKinley ,@RepMcKinley 
+House,WV-02 ,Alexander X. Mooney ,@RepAlexMooney 
+House,WV-03 ,Carol Miller ,@RepCarolMiller 
+House,WY - At Large ,Liz Cheney ,@RepLizCheney 
