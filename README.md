@@ -1,2 +1,4 @@
 # twitteranalysis
-アメリカの116議会に存在している議員のツイートを集約したデータと集めた時のコードです。
+Analysis for tweets from members of congress (116th congress)
+
+``
